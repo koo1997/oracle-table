@@ -2,7 +2,7 @@
 
 테이블: user
 
-테이블 컬럼 추가 
+테이블 컬럼 추가 \n
 ALTER TABLE USER ADD(NAME VARCHAR2(13)); 
 
 테이블 컬럼 수정
