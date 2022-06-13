@@ -1,4 +1,4 @@
-# oracle-table 
+# oracle-tableCOL
 
 테이블: user
 
